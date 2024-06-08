@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SaliLke
 - 👀 I’m interested in learning new technologies and gaining knowledge.
-- 🌱 I’m currently learning node.js and SQL
-- 💞️ I’m looking to collaborate on open-source projects
+- 🌱 I’m currently learning @IIT
+- 💞️ I’m looking to collaborate on open-source projects.
 - 📫 Reach me via LinkdeIn:https://www.linkedin.com/in/sanali-lokuge
 
 <!---
